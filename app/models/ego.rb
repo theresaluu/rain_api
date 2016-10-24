@@ -1,0 +1,2 @@
+class Ego < ApplicationRecord
+end
